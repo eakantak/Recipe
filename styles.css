@@ -3,3 +3,21 @@
   color:black;
   background-color:#E2BC55;
 }
+
+header
+{
+  background-color:#9E3340;
+}
+
+footer
+{
+  background-color:#808080;
+  height:50px;
+}
+
+
+@media (min-width: 550px) {
+  .main {
+    background-color: #E2BD56;
+  }
+}
