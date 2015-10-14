@@ -5,6 +5,12 @@
   font-family: "Droif-Serif", serif;
 }
 
+.main li:hover
+{
+  background-color:#808080;
+}
+
+
 header
 {
   background-color:#9E3340;
@@ -61,4 +67,30 @@ footer
 {
   font-family: "Droif-Serif", serif;
   font-weight: 400;
+}
+
+.most_pop h1
+{
+  font-family: "Oswald", sans-serif;
+}
+
+.popular h2
+{
+  font-family: "Droif-Serif", serif;
+  font-weight: 400;
+}
+
+.main ul li:active
+{
+  background-color:blue;
+}
+
+.mb
+{
+  font-family: "Oswald", sans-serif;
+}
+
+::selection
+{
+  background-color:#808080;
 }
