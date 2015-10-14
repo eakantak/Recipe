@@ -21,3 +21,10 @@ footer
     background-color: #E2BD56;
   }
 }
+
+.recipes li a
+
+{
+  color:black;
+  background-color:#F4DDA8;
+}
