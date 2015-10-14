@@ -2,6 +2,7 @@
 {
   color:black;
   background-color:#E2BC55;
+  font-family: "Droif-Serif", serif;
 }
 
 header
@@ -27,4 +28,37 @@ footer
 {
   color:black;
   background-color:#F4DDA8;
+  font-family: "Oswald", sans-serif;
+}
+
+.rod h1
+
+{
+    font-family: "Oswald", sans-serif;
+
+}
+
+.sc h2
+
+{
+    font-family: "Droif-Serif", serif;
+    font-weight: 400;
+}
+
+.needs h3
+{
+  font-family: "Oswald", sans-serif;
+
+}
+
+.directions h3
+{
+  font-family: "Oswald", sans-serif;
+
+}
+
+.cpbf
+{
+  font-family: "Droif-Serif", serif;
+  font-weight: 400;
 }
